@@ -2,7 +2,7 @@
 
 # SHIWNG
 
-**Shivang** — Independent builder · Open-source developer · AI enthusiast
+**Shiwng** — Independent builder · Open-source developer · AI enthusiast
 
 *Building software at the intersection of AI and engineering.*
 
