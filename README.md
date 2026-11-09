@@ -2,7 +2,7 @@
 
 # SHIWNG
 
-**Shiwng** — Independent builder · Open-source developer · AI enthusiast
+**Shivang** — Independent builder · Open-source developer · AI enthusiast
 
 *Building software at the intersection of AI and engineering.*
 
@@ -26,30 +26,6 @@ approach    experiment → build → iterate
 
 ---
 
-### Core domains
-
-| Domain | Focus |
-| --- | --- |
-| Artificial intelligence | AI/ML, applied AI, intelligent systems |
-| AI agents | Coding agents, agentic workflows, automation |
-| Security | Cybersecurity, reverse engineering |
-| Graphics & systems | 3D development, emerging technologies |
-
----
-
-### Technologies
-
-| Area | Working with |
-| --- | --- |
-| AI / ML | Applied AI, large language models, multi-model workflows |
-| Agents & automation | AI agents, coding agents, complex AI workflows |
-| Software | Open-source development, developer tools, software engineering |
-| Exploration | Cybersecurity tooling, reverse engineering, 3D development |
-
-> Specific stacks vary by project. The constant is the workflow: evaluate leading models and tools directly, in production-like conditions, at scale.
-
----
-
 ### Projects and current experiments
 
 Current work is primarily experimental and open-source. Active lines of work:
@@ -63,19 +39,6 @@ All public work is on GitHub:
 
 - Repositories — [github.com/shiwng?tab=repositories](https://github.com/shiwng?tab=repositories)
 - Profile repository — [shiwng/shiwng](https://github.com/shiwng/shiwng)
-
----
-
-### GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shiwng&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub statistics for shiwng" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwng&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages for shiwng" />
-
-<img src="https://streak-stats.demolab.com?user=shiwng&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Contribution streak for shiwng" />
-
-</div>
 
 ---
 
